@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Demo example created using provider [flutter recommended package](https://pub.dev/packages/provider),
+[state management approach](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#provider).
+
+[My Youtube Channel](https://www.youtube.com/channel/UCfGx7qUAx-TLnJUttLkN0xA)
 
 A few resources to get you started if this is your first Flutter project:
 
